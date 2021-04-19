@@ -19,6 +19,5 @@ Step 2: Install pobs Matlab App
 ------------------------------
 This code is in beta mode and is associated with the publication below. Please cite the publication when using the code. 
 
-Endotyping sleep apnea one breath at a time: An automated approach for separating obstructive from central sleep disordered breathing. 
-
+Endotyping sleep apnea one breath at a time: An automated approach for separating obstructive from central sleep disordered breathing.  
 Parekh, A, Tobert TM, Mooney AM, Ramos-Cejudo J, Osorio RS, Treml M, Herkenrath SD, Randerath WJ, Ayappa I, Rapoport DM. (In Review)

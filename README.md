@@ -1,5 +1,5 @@
 # pobs
-Breath-by-breath Probability of Obstruction (pobs)
+Breath-by-Breath Probability of Obstruction (pobs)
 
 Contact: 
 Ankit Parekh
@@ -13,7 +13,10 @@ Please read detailed instructions below:
 
 Step 1: Install Minerva
 
-Step 2: 
-	Option A: Run through MATLAB APP
+Step 2: Install pobs Matlab App
 
-	Option B: Use .m file for batch processes
+###############################################################################
+This code is in beta mode and is associated with the publication below. Please cite the publication when using the code. 
+
+Endotyping sleep apnea one breath at a time: An automated approach for separating obstructive from central sleep disordered breathing. 
+Parekh, A, Tobert TM, Mooney AM, Ramos-Cejudo J, Osorio RS, Treml M, Herkenrath SD, Randerath WJ, Ayappa I, Rapoport DM. (In Review)

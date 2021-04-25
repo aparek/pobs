@@ -15,7 +15,7 @@ Step 1: Install Minerva
 
 Step 2: Install pobs Matlab App or run using pobs_wrapper_batch.m
 
-Please contact Ankit Parekh for a demo of this code, unless you know what you are doing. 
+Please contact Ankit Parekh for a demo of this code.  
 
 ------------------------------
 This code is in beta mode and is associated with the publication below. Please cite the publication when using the code. 

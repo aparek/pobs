@@ -1,6 +1,6 @@
 # pobs
 Breath-by-Breath Probability of Obstruction (pobs)
-![](/docs/version1_Artboard 1.png?raw=true)
+![](https://github.com/aparek/pobs/blob/5b2d2de9b56516cadc62a90b3fbfbedaf86a1447/docs/version1_Artboard%201.png?raw=true)
 
 Contact: 
 Ankit Parekh

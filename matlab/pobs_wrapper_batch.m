@@ -10,7 +10,7 @@ function pobs_wrapper_batch(txtFile)
 %           xyz.edf
 %
 % No output is returned from this function, however, modified Minerva
-% Breathtables are generated inthe folder containing the .edf
+% Breathtables are generated in the folder containing the .edf
 % View the breath tables in Minerva. 
 %
 % Contact:
@@ -36,17 +36,17 @@ for j = 1:length(FileNames)
     
     sigHdr = struct2table(sigHdr);
     
-    flowChanName = 'NC';
-    SpO2ChanName = 'O2SAT';
-    snoreChanName = 'NCVIB';
-    ribChanName = 'RIB';
-    abdChanName = 'ABD';
+    flowChanName = 'Nasal Pressure';
+    SpO2ChanName = 'SpO2';
+    snoreChanName = 'SNORE';
+    ribChanName = 'Thor';
+    abdChanName = 'Abdo';
     
-    flowChan = find(startsWith(sigHdr.signal_labels,flowChanName));
-    SpO2Channel = find(startsWith(sigHdr.signal_labels,SpO2ChanName));
-    snoreChan = find(startsWith(sigHdr.signal_labels,snoreChanName));
-    ribChan = find(startsWith(sigHdr.signal_labels,ribChanName));
-    abdChan = find(startsWith(sigHdr.signal_labels,abdChanName));
+    flowChan = find(strcmp(sigHdr.signal_labels,flowChanName));
+    SpO2Channel = find(strcmp(sigHdr.signal_labels,SpO2ChanName));
+    snoreChan = find(strcmp(sigHdr.signal_labels,snoreChanName));
+    ribChan = find(strcmp(sigHdr.signal_labels,ribChanName));
+    abdChan = find(strcmp(sigHdr.signal_labels,abdChanName));
     
     try
         fprintf('\n===Warning===')

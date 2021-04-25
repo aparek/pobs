@@ -26,9 +26,10 @@ def main():
 
     rawData = data['Data']
 
-    for bre in range(0, rawData[-1]['BreathId']):
+    for bre in range(0, data['Header']['count']):
         rawData[bre]['ObsScore'] = newBreValues[bre]['Obstructive']
         rawData[bre]['CentScore'] = newBreValues[bre]['Central']
+        rawData[bre]['pobs'] = newBreValues[bre]['pobs']
 
     data['Data'] = rawData
 

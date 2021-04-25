@@ -25,10 +25,9 @@ Please read detailed instructions below:
         pobs_wrapper_batch('demoTxtfile.txt')  </p>
         
 **Step 4**: 
-<p> The code uses 5 signals from routine diagnostic polysomnography  
-        Airflow, Thor and Abdo (RIP effort belts), Snore, and SpO2  
-        It is upto the user to ensure signal quality is optimal and to exclude bad quality segments  
-        POBS does a standard run-of-the-mill quality check and will discard disconnects etc.   
+<p> The code uses 5 signals from routine diagnostic polysomnography Airflow, Thor and Abdo (RIP effort belts), Snore, and SpO2.  
+It is upto the user to ensure signal quality is optimal and to exclude bad quality segments.  
+        POBS does a standard run-of-the-mill quality check and will discard disconnects etc.     
         User should be aware of the signal names and must be edited within the pobs_wrapper_batch function  </p>
 
 

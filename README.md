@@ -29,7 +29,7 @@ Please read detailed instructions below:
 
 
 
-Please contact Ankit Parekh for a demo of this code.  
+Please contact below for a demo of this code.  
 
 ------------------------------
 This code is in beta mode and is associated with the publication below. Please cite the publication when using the code. 
@@ -38,5 +38,4 @@ Endotyping sleep apnea one breath at a time: An automated approach for separatin
 Parekh, A, Tobert TM, Mooney AM, Ramos-Cejudo J, Osorio RS, Treml M, Herkenrath SD, Randerath WJ, Ayappa I, Rapoport DM. April, 2021 (In Review)
 
 ###### Contact:
-###### Ankit Parekh
-###### ankit.parekh@mssm.edu
+###### Ankit Parekh ankit.parekh@mssm.edu

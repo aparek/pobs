@@ -1,8 +1,6 @@
 # Breath-by-Breath Probability of Obstruction (pobs)
 ## An automated approach for separating obstructive from central sleep disordered breathing
 
-<img src="https://github.com/aparek/pobs/blob/5b2d2de9b56516cadc62a90b3fbfbedaf86a1447/docs/version1_Artboard%201.png" alt="approach" width="600"/>
-
 Please read detailed instructions below:
 
 #### Minerva software will run only on Windows OS  
